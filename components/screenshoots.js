@@ -5,8 +5,8 @@ import { Carousel } from 'react-responsive-carousel';
 export default class NextJsCarousel extends Component {
     render() {
         return (
-        	<div className={'flex justify-center flex-wrap content-center w-96'}>
-              	<Carousel dynamicHeight={false}>
+        	<div className={'flex justify-center flex-wrap'}>
+              	<Carousel dynamicHeight={true} className={'flex flex-wrap w-96'}>
                 	<div>
 						<img src="./screen3.png" alt=''/>,
                       	<p className="legend">HomeScreen</p>
