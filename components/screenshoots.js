@@ -1,6 +1,7 @@
 export const Screenshots = () => {
 	return (
-		<div id="default-carousel" className={'relative'} data-carousel="static">
+		<div id="default-carousel" className={'relative px-6 py-8'} data-carousel="static">
+			<h2 id={"screenshots"} className={'text-3xl font-semibold text-center text-gray-800 capitalize lg:text-4xl dark:text-white'}>Screenshots</h2>
 			<div className={'relative h-56 overflow-hidden rounded-lg md:h-96'}>
 				<div className={'hidden duration-700 ease-in-out'} data-carousel-item>
 					<span className={'absolute text-2xl font-semibold text-white -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 sm:text-3xl dark:text-gray-800'}>First Slide</span>
