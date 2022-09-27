@@ -19,7 +19,7 @@ export const Team = () => {
 
 						<div className={'mt-2'}>
 							<h3 className={'text-lg font-medium text-gray-700 dark:text-gray-200'}>Luca Orbke</h3>
-							<span className={'mt-1 font-medium text-gray-600 dark:text-gray-300'}>Founder | Software Enigineer</span>
+							<span className={'mt-1 font-medium text-gray-600 dark:text-gray-300'}>Founder | Software Engineer</span>
 						</div>
 					</div>
 
@@ -29,7 +29,7 @@ export const Team = () => {
 
 						<div className={'mt-2'}>
 							<h3 className={'text-lg font-medium text-gray-700 dark:text-gray-200'}>Fiodar Yuzhyk</h3>
-							<span className={'mt-1 font-medium text-gray-600 dark:text-gray-300'}>Founder | Software Enigineer</span>
+							<span className={'mt-1 font-medium text-gray-600 dark:text-gray-300'}>Founder | Software Engineer</span>
 						</div>
 					</div>
 
@@ -49,7 +49,7 @@ export const Team = () => {
 
 						<div className={'mt-2'}>
 							<h3 className={'text-lg font-medium text-gray-700 dark:text-gray-200'}>Julian Schneider</h3>
-							<span className={'mt-1 font-medium text-gray-600 dark:text-gray-300'}>Founder | Software Enigineer</span>
+							<span className={'mt-1 font-medium text-gray-600 dark:text-gray-300'}>Founder | Software Engineer</span>
 						</div>
 					</div>
 
@@ -59,7 +59,7 @@ export const Team = () => {
 
 						<div className={'mt-2'}>
 							<h3 className={'text-lg font-medium text-gray-700 dark:text-gray-200'}>Paul Geeser</h3>
-							<span className={'mt-1 font-medium text-gray-600 dark:text-gray-300'}>Founder | Software Enigineer</span>
+							<span className={'mt-1 font-medium text-gray-600 dark:text-gray-300'}>Founder | Software Engineer</span>
 						</div>
 					</div>
 				</div>

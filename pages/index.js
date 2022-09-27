@@ -20,7 +20,10 @@ export default function Home() {
     <Screenshots/>
     <Features/>
     <Team/>
-    <Footer/>
+    <Footer
+      centertext="© Copyright 2022. All Rights Reserved."
+      githublink="https://github.com/tamabara"
+    />
    </>
   )
 }
